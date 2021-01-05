@@ -1,0 +1,18 @@
+{
+  "name": "breath_of_fantasy",
+  "version": "1.0.0",
+  "description": "A RPG game based on turns, a fight between two players setted by the user!",
+  "main": "app.js",
+  "scripts": {
+    "start": "./node_modules/.bin/node app.js",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Leonardo",
+  "engines": {
+    "node": "v12.14.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
